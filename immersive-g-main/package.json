@@ -1,0 +1,24 @@
+{
+  "name": "immersive-g",
+  "version": "1.0.0",
+  "description": "Vite Three.js Project",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.19",
+    "lil-gui": "^0.20.0",
+    "postprocessing": "^6.36.6",
+    "simplex-noise": "^4.0.3",
+    "three": "^0.172.0",
+    "troika-three-text": "^0.52.3"
+  },
+  "devDependencies": {
+    "vite": "^6.0.7",
+    "vite-plugin-glsl": "^1.3.1"
+  }
+}
